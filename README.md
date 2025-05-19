@@ -1,2 +1,2 @@
 # Class2
-Example Repository
+# Example Repository
